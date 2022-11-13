@@ -50,7 +50,7 @@
         "sass": "^1.38.0",
         "semver": "^7.3.5",
         "slugify": "^1.6.3",
-        "undici": "^4.13.0"
+        "undici": "^5.8.2"
     },
     "dependencies": {
         "algoliasearch": "^4.12.1",
